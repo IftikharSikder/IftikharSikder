@@ -45,13 +45,6 @@
 ## 🏆 GitHub Trophies
 <div align="center">
     
-![](https://github-profile-trophy.vercel.app/?username=SyedMashruk&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-## 🤵‍♂️ Profile Views
-<div align="center">
-    
-![:SyedMashruk](https://count.getloli.com/get/@:SyedMashruk?theme=aura_dark)
+![](https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,Issues,PullRequest)
 
 </div>
