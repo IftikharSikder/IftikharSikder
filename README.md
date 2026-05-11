@@ -43,11 +43,10 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Experience,Followers,Issues)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Experience,Followers,Issues" />
+</p>
 
 ## 🤵‍♂️ Profile Views
 <div align="center">
