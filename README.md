@@ -46,6 +46,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Experience,Followers,Issues" />
+  <img src="https://img.shields.io/badge/Code%20Craftsman-2847%20hrs-9B59B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-342%20solved-E74C3C?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 ## 🤵‍♂️ Profile Views
