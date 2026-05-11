@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&duration=1000&&pause=10&background=00000000&color=36BCF7FF&center=true&multiline=true&random=false&width=800&height=190&lines=Hi;I'm+Iftikhar+Ahammad+Sikder;Software+Developer;Software+Artisan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&duration=1000&&pause=10&background=00000000&color=36BCF7FF&center=true&multiline=true&random=false&width=800&height=190&lines=Hi;I'm+Iftikhar+Ahammad+Sikder;Software+Developer)](https://git.io/typing-svg)
 
 
 <a href="mailto:iftikharahammad111@gmail.com">
@@ -43,13 +43,13 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Repositories,Commits,Experience,Followers,Issues)
 
 </div>
 
 ## 🤵‍♂️ Profile Views
 <div align="center">
 
-![:IftikharSikder](https://count.getloli.com/get/@:IftikharSikder?theme=aura_dark)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-176-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
