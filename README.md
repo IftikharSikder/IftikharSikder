@@ -43,14 +43,15 @@
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+    
+![](https://github-profile-trophy.vercel.app/?username=SyedMashruk&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IftikharSikder&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Experience,Followers,Issues" />
-</p>
+</div>
 
 ## 🤵‍♂️ Profile Views
 <div align="center">
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-176-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+    
+![:SyedMashruk](https://count.getloli.com/get/@:SyedMashruk?theme=aura_dark)
 
 </div>
